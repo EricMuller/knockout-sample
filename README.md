@@ -6,11 +6,13 @@ this is a sample knockout page
 
 ### Tech
 
-sample knockout uses a number of open source projects to work properly:
+it uses a number of open source projects to work properly:
 
 * [Knockoutjs] - [knockout.js](https://knockoutjs.com/)  simplify dynamic JavaScript UIs using the Model-View-ViewModel (MVVM) pattern 
 * [npm] - [npmjs](https://https://www.npmjs.com//)  a package manager for Node.js packages
-* [http-server] - [http-server] (https://www.npmjs.com/package/http-server)  a simple zero-configuration command-line http server.
+* [http-server] - [http-server](https://www.npmjs.com/package/http-server)  a simple zero-configuration command-line http server.
+* [bootswatch] - [bootswatch](https://bootswatch.com/)  Free themes for Bootstrap.
+
 
 ###  Run with http-server
 
